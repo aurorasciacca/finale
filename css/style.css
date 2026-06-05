@@ -35,11 +35,6 @@ body{
     }
 }
 
-
-.page-transition {
-    animation: fadeInPagina 0.5s ease-out forwards;
-}
-
 .container{
     max-width: 1200px;
     margin: 0 auto;
